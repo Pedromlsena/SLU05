@@ -2,3 +2,4 @@ pepper
 salt
 stake
 butter
+eggs
